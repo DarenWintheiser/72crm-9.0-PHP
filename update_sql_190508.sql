@@ -15,4 +15,4 @@ INSERT INTO `5kcrm_admin_rule` VALUES ('80', '6', '查看', 'read', '3', '79', '
 INSERT INTO `5kcrm_admin_rule` VALUES ('81', '2', '导入', 'excelImport', '3', '22', '1');
 INSERT INTO `5kcrm_admin_rule` VALUES ('82', '2', '导出', 'excelExport', '3', '22', '1');
 INSERT INTO `5kcrm_admin_rule` VALUES ('83', '2', '导入', 'excelImport', '3', '56', '1');
-INSERT INTO `5kcrm_admin_rule` VALUES ('84', '2', '导出', 'excelExport', '3', '56', '1');
+INSERT INTO `5kcrm_admin_rule` VALUES ('84', '2', '导出', 'excelExport', '3', '56', '1'); 
